@@ -57,7 +57,7 @@ Backend
 🚀 Getting Started
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/CosmicLearn.git
+git clone https://github.com/Namrata-205/CosmicLearn.git
 cd CosmicLearn
 
 2️⃣ Install Dependencies
