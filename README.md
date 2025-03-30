@@ -41,7 +41,7 @@ Backend
 -OpenAI Integration for AI functionalities
 -WebSocket for real-time updates
 
-##📁 Project Structure
+📁 Project Structure
 ├── client/                # Frontend application
 │   ├── src/
 │   │   ├── components/   # Reusable UI components
